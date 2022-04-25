@@ -1,0 +1,110 @@
+.character {
+  /* Fill the available container height */
+  height: 100%;
+}
+
+.baseColor {
+  fill: "#55431D";
+}
+.lighterColor {
+  fill: "#6F5E3E";
+}
+.darkerColor {
+  fill: "#292312";
+}
+.eye {
+  fill: "#F4F2F3";
+}
+.iris {
+  fill: "#626390";
+}
+.pupil {
+  fill: "#010101";
+}
+.skin {
+  fill: "#D5AA82";
+}
+.skinShadow {
+  fill: "#BE8E6A";
+}
+.mouth {
+  fill: "#7D2D18";
+}
+.nose {
+  fill: "#010101";
+}
+.eyebrow {
+  fill: "#584621";
+}
+#Male {
+  display: "inline";
+}
+#Hair1 {
+  display: "none";
+}
+#Hair2 {
+  display: "inline";
+}
+#Hair3 {
+  display: "inline";
+}
+#Hair4 {
+  display: "inline";
+}
+#Hair5 {
+  display: "inline";
+}
+#Hair6 {
+  display: "inline";
+}
+#Hair7 {
+  display: "inline";
+}
+#Hair8 {
+  display: "inline";
+}
+#Hair9 {
+  display: "inline";
+}
+#Hair10 {
+  display: "inline";
+}
+#Hair11 {
+  display: "inline";
+}
+#Hair12 {
+  display: "inline";
+}
+#Hair13 {
+  display: "inline";
+}
+#Hair14 {
+  display: "inline";
+}
+#Hair15 {
+  display: "inline";
+}
+#Hair16 {
+  display: "inline";
+}
+#Hair17 {
+  display: "inline";
+}
+#Hair18 {
+  display: "inline";
+}
+#Hair19 {
+  display: "inline";
+}
+#Hair20 {
+  display: "inline";
+}
+#Hair21 {
+  display: "inline";
+}
+#Hair22 {
+  display: "inline";
+}
+#Hair23 {
+  display: "inline";
+}
