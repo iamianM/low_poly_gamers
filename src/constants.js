@@ -1,46 +1,30 @@
-export const numHeads = 1;
-export const numHairStyles = 23;
-export const numBeardStyles = 13;
-
 export const skinColors = [
-  { label: "Paler", color: "#FFDBAC" },
-  { label: "Pale", color: "#F1C27D" },
-  { label: "Tan", color: "#E0AC69" },
-  { label: "Dark", color: "#C68642" },
-  { label: "Darker", color: "#8D5524" },
-  { label: "Purple", color: "#A020F0" },
-  { label: "White", color: "#FFFFFF" },
-  { label: "Green", color: "#00FF00" },
+  { label: "Dark Espresso", color: "hsl(26deg, 48%, 28%)" },
+  { label: "Espresso", color: "hsl(27deg, 55%, 34%)" },
+  { label: "Chestnut", color: "hsl(28deg, 50%, 45%)" },
+  { label: "Almond", color: "hsl(28deg, 47%, 51%)" },
+  { label: "Golden", color: "hsl(34deg, 52%, 54%)" },
+  { label: "Honey", color: "hsl(31deg, 57%, 58%)" },
+  { label: "Warm Beige", color: "hsl(33deg, 59%, 68%)" },
+  { label: "Sand", color: "hsl(33deg, 51%, 71%)" },
+  { label: "Warm Ivory", color: "hsl(32deg, 79%, 76%)" },
+  { label: "Ivory", color: "hsl(33deg, 69%, 80%)" },
+  { label: "Porcelain", color: "hsl(26deg, 72%, 85%)" },
 ];
 
-export const hairColors = [
-  { label: "Dark Brown", color: "#53411D" },
-  { label: "White", color: "#E3E0E0" },
-  { label: "Light grey", color: "#86907C" },
-  { label: "Dark grey", color: "#484444" },
-  { label: "Apricot", color: "#D9944E" },
-  { label: "Straw", color: "#D6B964" },
-  { label: "Light brown", color: "#A67B3C" },
-  { label: "Brown", color: "#7C5938" },
-  { label: "Turquoise", color: "#129CA1" },
-  { label: "Green", color: "#12A118" },
-  { label: "Ginger", color: "#B35015" },
-  { label: "Magenta", color: "#C618CF" },
-  { label: "Black", color: "#2C2A2A" },
-  { label: "Grey", color: "#796D60" },
-  { label: "Beige", color: "#BBBA95" },
-  { label: "Peach", color: "#D99165" },
-  { label: "Light Blue", color: "#90ADCA" },
-  { label: "Royal Blue", color: "#3E40AD" },
-  { label: "Pale Pink", color: "#B59291" },
-  { label: "Intense Pink", color: "#CC655F" },
-  { label: "Maroon", color: "#571209" },
-  { label: "Light Green", color: "#91CA92" },
-  { label: "Dark Green", color: "#3B584F" },
-  { label: "Purple", color: "#8841B2" },
-  { label: "Light Purple", color: "#B98DC8" },
-  { label: "Green", color: "#12A118" },
+export const clothesColors = [
+  { label: "Pale tomato", color: "hsl(5deg, 70%, 70%)" },
+  { label: "Goldenrod", color: "hsl(40deg, 100%, 75%)" },
+  { label: "Sunshine", color: "hsl(52deg, 95%, 70%)" },
+  { label: "Grass", color: "hsl(125deg, 65%, 70%)" },
+  { label: "Teal", color: "hsl(180deg, 45%, 75%)" },
+  { label: "Cobalt", color: "hsl(220deg, 55%, 70%)" },
+  { label: "Fuscia", color: "hsl(315deg, 65%, 70%)" },
+  { label: "Pink", color: "hsl(345deg, 75%, 70%)" },
+  { label: "Dark Gray", color: "hsl(180deg, 9%, 19%)" },
+  { label: "Gray", color: "hsl(180deg, 3%, 50%)" },
+  { label: "White", color: "hsl(180deg, 10%, 85%)" },
 ];
 
 export const defaultSkinColor = skinColors[0].color;
-export const defaultHairColor = hairColors[0].color;
+export const defaultClothesColor = clothesColors[0].color;

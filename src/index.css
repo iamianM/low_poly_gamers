@@ -5,14 +5,14 @@ body,
 }
 
 body {
-  background-color: #808080;
+  background-color: hsl(180deg, 25%, 92%);
   margin: 0;
 }
 
 *,
 *:before,
 *:after {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   box-sizing: border-box;
 }
 
